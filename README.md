@@ -37,3 +37,20 @@ Puanlama: Oyuncuların puanlarını takip ederiz ve en yüksek puanı elde edenl
 Sonuç:
 
 Hafıza Oyunu projesi, kullanıcıların hafıza becerilerini test etmelerine ve eğlenceli bir oyun deneyimi yaşamalarına olanak sağlar. React'in güçlü bileşen yapısı ve CSS animasyonlarıyla birleşerek kullanıcı dostu bir arayüz sunar. Projenizi geliştirirken kodunuzun düzenli ve okunaklı olmasına özen gösteririz ve kullanıcı deneyimini en üst düzeye çıkarmak için oyunu test ederiz. 
+
+Projeyi çalıştırmak için:
+
+Öncelikle, Node.js'i bilgisayarınıza yükleyin. Node.js, JavaScript çalıştırmak ve paket yönetimi yapmak için kullanılan bir platformdur.
+
+Ardından, bir komut satırı (terminal) açın ve projenizi oluşturmak için aşağıdaki komutu girin:
+npx create-react-app my-project
+Yukarıdaki komut, "my-project" adında bir React projesi oluşturur.
+Projenizi oluşturduktan sonra, Visual Studio Code'u açın ve projenin olduğu dizini açın. Bunun için VS Code menüsünde "File" > "Open Folder" seçeneğini kullanabilirsiniz.
+VS Code terminalini açmak için menüden "View" > "Terminal" seçeneğini seçin.
+Terminalde, aşağıdaki komutu girin:
+npm start
+Bu komut, React uygulamanızı başlatır ve tarayıcınızda otomatik olarak açılır. Projenizdeki değişiklikleri yaptıkça, tarayıcıda canlı olarak görüntülenecektir.
+Bu adımları izledikten sonra, React projesini geliştirmek için VS Code'u kullanabilirsiniz. Yukarıdaki örneği de projenize ekleyebilir ve çalıştırabilirsiniz.
+
+Unutmayın, React projeleri genellikle bağımlılıkların yönetildiği bir paket yöneticisi olan npm veya Yarn kullanır.
+Projenizi geliştirirken ilgili bağımlılıkları yüklemeniz ve paketleri yönetmeniz gerekecektir.
